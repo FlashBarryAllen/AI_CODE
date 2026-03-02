@@ -7,6 +7,11 @@ cmake_install.cmake
 CMakeLists.txt.user
 
 # Compiled binaries
+hello
+
+# Compiled and build artifacts
+*.pyc
+__pycache__/
 *.o
 *.obj
 *.bin
